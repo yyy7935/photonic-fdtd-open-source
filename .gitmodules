@@ -1,0 +1,24 @@
+[submodule "vendor/tmm"]
+	path = vendor/tmm
+	url = https://github.com/sbyrnes321/tmm.git
+[submodule "vendor/fdtdx"]
+	path = vendor/fdtdx
+	url = https://github.com/ymahlau/fdtdx.git
+[submodule "vendor/beamz"]
+	path = vendor/beamz
+	url = https://github.com/beamzorg/beamz.git
+[submodule "vendor/torcwa"]
+	path = vendor/torcwa
+	url = https://github.com/kch3782/torcwa.git
+[submodule "vendor/S4"]
+	path = vendor/S4
+	url = https://github.com/victorliu/S4.git
+[submodule "vendor/ceviche"]
+	path = vendor/ceviche
+	url = https://github.com/fancompute/ceviche.git
+[submodule "vendor/fdtd"]
+	path = vendor/fdtd
+	url = https://github.com/flaport/fdtd.git
+[submodule "vendor/meep"]
+	path = vendor/meep
+	url = https://github.com/NanoComp/meep.git
